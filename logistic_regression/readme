@@ -1,0 +1,6 @@
+LR, userd for 2-classes model.
+
+1) the data matched Bernoulli distribution.
+2) create the maximum likelihood estimation.
+3) use gradient decress to get the optimal value.
+4) build the 2-class model.
